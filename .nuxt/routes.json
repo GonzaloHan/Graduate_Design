@@ -1,0 +1,100 @@
+[
+  {
+    "name": "tracking-min",
+    "path": "/tracking-min",
+    "component": "F:\\\\Collimator\\\\pages\\\\tracking-min.js",
+    "chunkName": "pages/tracking-min",
+    "_name": "_0d5cb527"
+  },
+  {
+    "name": "tables-analysis_app",
+    "path": "/tables/analysis_app",
+    "component": "F:\\\\Collimator\\\\pages\\\\tables\\\\analysis_app.vue",
+    "chunkName": "pages/tables/analysis_app",
+    "_name": "_383c49e2"
+  },
+  {
+    "name": "tables-analysis_group",
+    "path": "/tables/analysis_group",
+    "component": "F:\\\\Collimator\\\\pages\\\\tables\\\\analysis_group.vue",
+    "chunkName": "pages/tables/analysis_group",
+    "_name": "_00019aed"
+  },
+  {
+    "name": "tables-analysis_person",
+    "path": "/tables/analysis_person",
+    "component": "F:\\\\Collimator\\\\pages\\\\tables\\\\analysis_person.vue",
+    "chunkName": "pages/tables/analysis_person",
+    "_name": "_42570652"
+  },
+  {
+    "name": "tables-distribute",
+    "path": "/tables/distribute",
+    "component": "F:\\\\Collimator\\\\pages\\\\tables\\\\distribute.vue",
+    "chunkName": "pages/tables/distribute",
+    "_name": "_d9a7391c"
+  },
+  {
+    "name": "tables-information",
+    "path": "/tables/information",
+    "component": "F:\\\\Collimator\\\\pages\\\\tables\\\\information.vue",
+    "chunkName": "pages/tables/information",
+    "_name": "_5d6fbd6b"
+  },
+  {
+    "name": "tables-integrate",
+    "path": "/tables/integrate",
+    "component": "F:\\\\Collimator\\\\pages\\\\tables\\\\integrate.vue",
+    "chunkName": "pages/tables/integrate",
+    "_name": "_851346a0"
+  },
+  {
+    "name": "tables-predict",
+    "path": "/tables/predict",
+    "component": "F:\\\\Collimator\\\\pages\\\\tables\\\\predict.vue",
+    "chunkName": "pages/tables/predict",
+    "_name": "_49964a18"
+  },
+  {
+    "name": "tables-reuse_Banner",
+    "path": "/tables/reuse_Banner",
+    "component": "F:\\\\Collimator\\\\pages\\\\tables\\\\reuse_Banner.vue",
+    "chunkName": "pages/tables/reuse_Banner",
+    "_name": "_97834070"
+  },
+  {
+    "name": "tables-reuse_open",
+    "path": "/tables/reuse_open",
+    "component": "F:\\\\Collimator\\\\pages\\\\tables\\\\reuse_open.vue",
+    "chunkName": "pages/tables/reuse_open",
+    "_name": "_bfa1d674"
+  },
+  {
+    "name": "tables-reuse_push",
+    "path": "/tables/reuse_push",
+    "component": "F:\\\\Collimator\\\\pages\\\\tables\\\\reuse_push.vue",
+    "chunkName": "pages/tables/reuse_push",
+    "_name": "_281eb596"
+  },
+  {
+    "name": "tables-reuse_search",
+    "path": "/tables/reuse_search",
+    "component": "F:\\\\Collimator\\\\pages\\\\tables\\\\reuse_search.vue",
+    "chunkName": "pages/tables/reuse_search",
+    "_name": "_5091cc24"
+  },
+  {
+    "name": "tables-send",
+    "path": "/tables/send",
+    "component": "F:\\\\Collimator\\\\pages\\\\tables\\\\send.vue",
+    "chunkName": "pages/tables/send",
+    "_name": "_6bb19f4e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\Collimator\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7e0d8354"
+  }
+]
