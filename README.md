@@ -1,6 +1,6 @@
-# AI
+# Collimator
 
-> My lovely Nuxt.js project
+> Hej, this is Yihan Yang.
 
 ## Build Setup
 
